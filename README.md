@@ -8,7 +8,8 @@ I'm a Mobile Developer & Product Designer, But previously have been a Social Mar
   - AI based Instagram Management Application (interactions optimization).
 
 
-Keep it Simple and Stupid!
+
+**Keep it Simple and Stupid!**
 
 
 
