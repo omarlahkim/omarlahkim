@@ -4,7 +4,7 @@ I'm a Mobile Developer & Product Designer, But previously have been a Social Mar
 
 Projects under construction:
   - Pets Matcher.
-  - Mobile Restaurant Orders Manager.
+  - Web/Mobile Restaurant Orders Manager for Clients.
   - AI based Instagram Management Application (interactions optimization).
 
 
