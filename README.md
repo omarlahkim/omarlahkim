@@ -9,7 +9,7 @@ Projects under construction:
 
 
 Keep it Simple and Stupid!
-Have a good day!
+
 
 
 <!--
