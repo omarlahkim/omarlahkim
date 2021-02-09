@@ -1,15 +1,5 @@
 ### Hi there 👋
-
-I'm a Mobile Developer & Product Designer, But have previously been a Social Marketer with a strong experience on YouTube Seo (+30 Million Views), Facebook Marketing (+ 700k Followers), and Dropshipping on Ebay. My codes will be including some Marketing tools for automating Social Networks Management, and Optimization.
-
-**Projects under construction:**
-  - Pets Matcher. (Tinder-like)
-  - Web/Mobile Restaurant Orders Manager for Clients.
-  - AI based Instagram Management Application (interactions optimization).
-
-
-
-**Keep it Simple and Stupid!**
+My name is **Lahkim Omar**, mobile & web developer from Morocco. I used to be a Social Marketer with over 30 million views on Youtube, more than 700 thousand followers on Facebook, and some products sold on Ebay as a Dropshipper. I usually write code for fun, but when I’m asked to it for someone it would be probably for money 😅.  I have many interesting projects in my mind, so **STAY TUNED**.
 
 
 
