@@ -1,19 +1,23 @@
-### Hi there 👋
-My name is **Lahkim Omar**, mobile & web developer from Morocco. I used to be a Social Marketer with over 30 million views on Youtube, more than 700 thousand followers on Facebook, and some products sold on Ebay as a Dropshipper. I usually write code for fun, but when I’m asked to it for someone it would be probably for money 😅.  I have many interesting projects in my mind, so **STAY TUNED**.
 
+<p align="center">
+  <img src="" width="100%" />  
+  <h1 align="center"><a href="https://lahkimomar.com">I'm Omar Lahkim</a></h1>
+  <p align="center"> Software Engineer & Mobile Developer</p>
+</p>
 
+<p align="center">
+  <a href="https://lahkimomar.com">Portfolio</a> | 
+  <a href="https://twitter.com/OmarLahkim4">Twitter</a> |
+  <a href="https://linkedin.com/in/omar-lahkim-59a868209">LinkedIn</a>
+</p>
 
-<!--
-**omarlahkim/omarlahkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+💫 I'm currently working with my hands to make magic happen on your phones. View my [Projects](https://lahkimomar.com/#projects), [Papers](https://lahkimomar.com/#papers), [Resumé](https://lahkimomar.com/resume), [Contact Me](https://lahkimomar.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can reach me at lahkimomarpro@gmail.com.
+
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning about anything and everything around JavaScript.
+- 💬 Ask me about JavaScript, React Native, ReactJs and anything about Gaming 🎮
+- ⚡ Fun fact: I do kickboxing 🥊.
