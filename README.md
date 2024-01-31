@@ -17,7 +17,6 @@
 
 📫 You can reach me at lahkimomarpro@gmail.com.
 
-- 😄 Pronouns: He/Him
 - 🌱 I’m currently learning about anything and everything around JavaScript.
 - 💬 Ask me about JavaScript, React Native, ReactJs and anything about Gaming 🎮
 - ⚡ Fun fact: I do kickboxing 🥊.
