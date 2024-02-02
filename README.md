@@ -17,6 +17,6 @@
 
 📫 You can reach me at lahkimomarpro@gmail.com.
 - 🏎️ Petrolhead
-- 🌱 I’m currently learning about anything and everything around JavaScript.
+- 🌱 I’m currently learning about anything and everything around AI and JavaScript.
 - 💬 Ask me about Python, JavaScript, React Native, and anything about Cars 🚗
 - ⚡ Fun fact: I do kickboxing 🥊.
