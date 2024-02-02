@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" width="100%" />  
+  <!---<img src="" width="100%" />-->
   <h1 align="center"><a href="https://lahkimomar.com">I'm Omar Lahkim</a></h1>
   <p align="center"> Software Engineer & AI Enthusiast</p>
 </p>
