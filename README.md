@@ -2,7 +2,7 @@
 <p align="center">
   <!---<img src="" width="100%" />-->
   <h1 align="center"><a href="https://lahkimomar.com">I'm Omar Lahkim</a></h1>
-  <p align="center"> Software Engineer & AI Enthusiast</p>
+  <p align="center">Software Engineer & AI Enthusiast</p>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 💫 I'm currently working with my hands to make magic happen on your phones. View my [Projects](https://lahkimomar.com/#projects), [Papers](https://lahkimomar.com/#papers), [Resumé](https://lahkimomar.com/resume), [Contact Me](https://lahkimomar.com/).
 
 📫 You can reach me at lahkimomarpro@gmail.com.
-
+- 🏎️ Petrolhead
 - 🌱 I’m currently learning about anything and everything around JavaScript.
-- 💬 Ask me about JavaScript, React Native, ReactJs and anything about Gaming 🎮
+- 💬 Ask me about Python, JavaScript, React Native, and anything about Cars 🚗
 - ⚡ Fun fact: I do kickboxing 🥊.
