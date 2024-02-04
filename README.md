@@ -13,7 +13,7 @@
 
 <br />
 
-💫 I'm currently working with my hands to make magic happen on your phones. View my [Projects](https://lahkimomar.com/#projects), [Papers](https://lahkimomar.com/#papers), [Resumé](https://lahkimomar.com/resume), [Contact Me](https://lahkimomar.com/).
+💫 I'm currently manipulating my keyboard to make optimized and clean code. View my [Projects](https://lahkimomar.com/#projects), [Papers](https://lahkimomar.com/#papers), [Resumé](https://lahkimomar.com/resume), [Contact Me](https://lahkimomar.com/).
 
 📫 You can reach me at lahkimomarpro@gmail.com.
 - 🏎️ Petrolhead
