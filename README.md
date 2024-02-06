@@ -21,7 +21,7 @@
 #
 
 
-💻 I'm currently manipulating my keyboard to make optimized and clean code. View my [Projects](https://lahkimomar.com/#projects), [Papers](https://lahkimomar.com/#papers), [Resumé](https://lahkimomar.com/resume), [Contact Me](https://lahkimomar.com/).
+💻 I'm currently manipulating my keyboard to do things. View my [Projects](https://lahkimomar.com/#projects), [Papers](https://lahkimomar.com/#papers), [Resumé](https://lahkimomar.com/resume), [Contact Me](https://lahkimomar.com/).
 
 📫 You can reach me at contact@lahkimomar.com.
 - 🏎️ Petrolhead
