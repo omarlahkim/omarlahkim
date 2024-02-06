@@ -3,6 +3,7 @@
   <!---<img src="" width="100%" />-->
   <h1 align="center"><a href="https://lahkimomar.com">Omar Lahkim</a></h1>
   <p align="center">Software Engineer & AI Enthusiast</p>
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 </p>
 
 <p align="center">
